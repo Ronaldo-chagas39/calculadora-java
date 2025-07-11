@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculadora {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        //krlll tou descontrolado 
         System.out.print("Digite o primeiro número: ");
         double n1 = sc.nextDouble();
 
